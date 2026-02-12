@@ -1,4 +1,4 @@
-import type { Movie } from "../../../../03-react-movies/src/types/movie";
+import type { Movie } from "../../types/movie";
 import css from "./MovieGrid.module.css";
 
 interface MovieGridProps {
